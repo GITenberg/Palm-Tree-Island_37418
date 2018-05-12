@@ -33,6 +33,8 @@ description: Title; Contents; Chapter the First; Chapter the Second; Chapter the
   Chapter the Sixteenth; Chapter the Seventeenth; Chapter the Eighteenth; Chapter
   the Nineteenth; Chapter the Twentieth; Chapter the Twenty-First; Chapter the Twenty-Second;
   Endnotes;
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37418#Palm-Tree-Island
 gutenberg_issued: '2011-09-19'
 gutenberg_type: Text
 identifiers:
