@@ -1,0 +1,51 @@
+_repo: Palm-Tree-Island_37418
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Webb, Archibald
+    aliases:
+    - Webb, Archie
+    - Webb, A. B. (Archibald Bertram)
+    - Webb, Arch.
+    birthdate: 1887
+    deathdate: 1944
+    gutenberg_agent_id: '9893'
+    url: http://www.gutenberg.org/2009/agents/9893
+  - agent_name: Wright, Alan
+    birthdate: 1864
+    gutenberg_agent_id: '32064'
+    url: http://www.gutenberg.org/2009/agents/32064
+covers:
+- cover_type: archival
+  image_path: 37418-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Strang, Herbert
+    gutenberg_agent_id: '5234'
+    url: http://www.gutenberg.org/2009/agents/5234
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Herbert_Strang
+    - http://www.gutenberg.org/ebooks/author/39124
+description: Title; Contents; Chapter the First; Chapter the Second; Chapter the Third;
+  Chapter the Fourth; Chapter the Fifth; Chapter the Sixth; Chapter the Seventh; Chapter
+  the Eighth; Chapter the Ninth; Chapter the Tenth; Chapter the Eleventh; Chapter
+  the Twelfth; Chapter the Thirteenth; Chapter the Fourteenth; Chapter the Fifteenth;
+  Chapter the Sixteenth; Chapter the Seventeenth; Chapter the Eighteenth; Chapter
+  the Nineteenth; Chapter the Twentieth; Chapter the Twenty-First; Chapter the Twenty-Second;
+  Endnotes;
+gutenberg_issued: '2011-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37418'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Castaways -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Shipwrecks -- Juvenile fiction'
+- !lcsh 'Oceania -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+title: Palm Tree Island
+url: http://www.gutenberg.org/ebooks/37418
